@@ -5,4 +5,6 @@
     2). 实现简单版react-redux
     3). 对比react-redux与vuex的差别
 
+# 后续持续更新
+
 
